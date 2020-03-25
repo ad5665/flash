@@ -4,9 +4,9 @@ Esoteric theme
 
 TODO: 
 
-Volume Icon
+Volume Icon - done
 
-Make CPU Icon clear
+Make CPU Icon clear - done
 
 Make I Icon clear
 
