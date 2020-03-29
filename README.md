@@ -1,5 +1,6 @@
 # flash
 ## Esoteric theme for RG350
+Copy /Flash to /home/.esoteric/skins/
 
 ## Screenshots
 
