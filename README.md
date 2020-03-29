@@ -1,7 +1,7 @@
 # flash
-Esoteric theme
+## Esoteric theme for RG350
 
-Screenshots
+## Screenshots
 
 ![Fav](/Screenshots/screenshot010.png)
 
@@ -10,13 +10,10 @@ Screenshots
 ![Game](https://raw.githubusercontent.com/ad5665/flash/master/Screenshots/screenshot013.png)
 
 
-TODO: 
+## TODO: 
 
-Volume Icon
-
-Make CPU Icon clear - done
-
-Make I Icon clear - done
-
-Possibly update button icons
+*Volume Icon
+*Make CPU Icon clear - done
+*Make I Icon clear - done
+*Possibly update button icons
 
